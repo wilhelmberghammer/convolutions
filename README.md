@@ -2,7 +2,7 @@
 
 When studying CNNs I wanted to implement the image processing algorithms from scratch.
 
-Edge Detection:
+**Edge Detection:**
 ![edge_detection.png](https://github.com/wilhelmberghammer/convolutions/blob/master/readme_recources/edge_detection.png?raw=true)
 
 
